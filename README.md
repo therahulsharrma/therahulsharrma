@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal077&label=Profile%20views&color=0e75b6&style=flat" alt="kunal077" /> </p>
 
-- 🔭 I’m currently working on **Brain Computer Interface and use of ML in it.**
+- 🔭 I’m currently working on **Brain Computer Interface, Deep Learning in Space Exploration.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunal077](https://github.com/kunal077)
 
-- 💬 Ask me about **Algebra, Analysis, Statistics, Python, AI, ML, BCI**
+- 💬 Ask me about **Algebra, Analysis, Statistics, Python, AI, ML, BCI, Space Science, General Physics**
 
 - 📫 How to reach me **kushkunal077@gmail.com**
 
