@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">AI Engineer, Mathematician, Programmer</h3>
+### Hi there 👋, I am Kunal Sharma
+#### AI Engineer, Mathematician, Programmer
+I am a 3rd Year UG studying Mathematics and Computer Science at Delhi Technological University. My interests are - Math, CS, AI, ML, Space Technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal077&label=Profile%20views&color=0e75b6&style=flat" alt="kunal077" /> </p>
+Skills: Python, AI, ML, Algebra, Analysis, Statistics, Web Developement
 
-- 🔭 I’m currently working on **Brain Computer Interface, Deep Learning in Space Exploration.**
+- 🔭 I’m currently working on Brain Computer Interface and Deep Learning in Space Science. 
+- 🌱 I’m currently learning Deep Learning Algorithms and Web Developement. 
+- 💬 Ask me about AI, ML, Analysis, Algebra, Stats, Space Science 
+- 📫 How to reach me: kushkunal077@gmail.com 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunal077](https://github.com/kunal077)
 
-- 💬 Ask me about **Algebra, Analysis, Statistics, Python, AI, ML, BCI, Space Science, General Physics**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kunal077)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kunal-sharma-469962166/)  
 
-- 📫 How to reach me **kushkunal077@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kunal077)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QlIvqLsjs0ZdpZa0aIUNH9g09tu40tZQ/view?usp=sharing](https://drive.google.com/file/d/1QlIvqLsjs0ZdpZa0aIUNH9g09tu40tZQ/view?usp=sharing)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kunal077&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/kunal077)  
 
