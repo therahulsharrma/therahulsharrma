@@ -14,14 +14,3 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QlIvqLsjs0ZdpZa0aIUNH9g09tu40tZQ/view?usp=sharing](https://drive.google.com/file/d/1QlIvqLsjs0ZdpZa0aIUNH9g09tu40tZQ/view?usp=sharing)
 
 
-
-<body>
-  <div class="top-container">
-    <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
-    <h1>I'm Kunal Sharma.</h1>
-    <h2 class="aboutclass"><span class="pro">Pro</span>grammer, <span class="math">Math</span>ematician, <span class="aiml">AI and ML</span> Engineer.</h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
-    <div class="">
-      <img class="mountain" src="images/mountain.png" alt="mountain-img">
-    </div>
-  </div>
