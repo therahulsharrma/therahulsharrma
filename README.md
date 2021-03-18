@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Brain Computer Interface and Machine Leaerning**
 
-- 🌱 I’m currently learning **TensorFlow, EJS, Deep Learning Algorithms**
+- 🌱 I’m currently learning **TensorFlow, EJS, Deep Learning Algorithms and EEG Signals**
 
 - 💬 Ask me about **Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies**
 
