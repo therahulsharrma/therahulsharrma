@@ -1,5 +1,4 @@
-<img src= "![image](https://user-images.githubusercontent.com/79495351/112099851-3db72700-8bca-11eb-9b82-43bdc07d35a4.png)
-" alt = "Octocat">
+<img src= "https://user-images.githubusercontent.com/79495351/112099851-3db72700-8bca-11eb-9b82-43bdc07d35a4.png" alt = "Octocat">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
