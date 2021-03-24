@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal077" alt="kunal077" /></a> </p>
 
-- 🔭 I’m currently working on **Brain Computer Interface and Machine Leaerning**
+- 🔭 I’m currently working on **Brain Computer Interface, Data Reporting, Statistics, Transfer Learning. **
 
 - 🌱 I’m currently learning **TensorFlow, EJS, Deep Learning Algorithms and EEG Signals**
 
