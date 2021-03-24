@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **Math is not just a subject, It is a superpower**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kunalsh23552206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kunalsh23552206" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunal-sharma-469962166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal-sharma-469962166/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15271953/kunal-sharma?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15271953/kunal-sharma?tab=profile" height="30" width="40" /></a>
