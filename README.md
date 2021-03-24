@@ -1,4 +1,4 @@
-<img src= "https://static.scientificamerican.com/sciam/cache/file/6CDEF060-24D3-4F0A-8DFDAE8B76867BB5_source.jpg">
+<img src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
