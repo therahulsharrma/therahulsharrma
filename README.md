@@ -1,4 +1,4 @@
-<img style ="margin:auto;" align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23dZ1MS6L7Odguul8W-AxMB3klBnMoQbjnqihXtQRgAx2M47k7ukvaM4-cac4aGImI4c&usqp=CAU">
+<p align="center"><img style ="margin:auto;" align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23dZ1MS6L7Odguul8W-AxMB3klBnMoQbjnqihXtQRgAx2M47k7ukvaM4-cac4aGImI4c&usqp=CAU"></p>
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
