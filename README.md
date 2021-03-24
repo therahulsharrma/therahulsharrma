@@ -1,5 +1,11 @@
-<div style = "margin: auto";>
- <img src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
+<style>
+.content {
+ max-width: 500px;
+ margin: auto;
+}
+</style>
+<div class= "content">
+<img src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
