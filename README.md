@@ -1,19 +1,19 @@
-<img align = "center" src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
+<img align="center" src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal077" alt="kunal077" /></a> </p>
 
-- 🔭 I’m currently working on **Brain Computer Interface, Data Reporting, Statistics, Transfer Learning. **
+                               🔭 I’m currently working on **Brain Computer Interface, Data Reporting, Statistics, Transfer Learning. **
 
-- 🌱 I’m currently learning **TensorFlow, EJS, Deep Learning Algorithms and EEG Signals**
+                               🌱 I’m currently learning **TensorFlow, EJS, Deep Learning Algorithms and EEG Signals**
 
-- 💬 Ask me about **Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies**
+                               💬 Ask me about **Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies**
 
-- 📫 How to reach me **kushkunal077@gmail.com**
+                               📫 How to reach me **kushkunal077@gmail.com**
 
-- ⚡ Fun fact **Math is not just a subject, It is a superpower**
+                               ⚡ Fun fact **Math is not just a subject, It is a superpower**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
