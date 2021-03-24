@@ -1,4 +1,4 @@
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fhow-to-use-math-to-fly-rockets-to-space%2F&psig=AOvVaw0gtWeB58ryS4jr95A4bW2B&ust=1616669219931000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDnmKjgyO8CFQAAAAAdAAAAABAD">
+<img src= "https://static.scientificamerican.com/sciam/cache/file/6CDEF060-24D3-4F0A-8DFDAE8B76867BB5_source.jpg">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
