@@ -1,10 +1,4 @@
-<style>
-.content {
- max-width: 500px;
- margin: auto;
-}
-</style>
-<div class= "content">
+<div style = "margin-left: auto;margin-right: auto; width: 40%;">
 <img src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg">
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
