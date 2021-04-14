@@ -13,7 +13,7 @@
 
                                📫 How to reach me kushkunal077@gmail.com
 
-                               ⚡ Fun fact Math is not just a subject, It is a superpower
+                               ⚡ Fun fact Math is not a field, It is a superpower.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
