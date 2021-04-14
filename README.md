@@ -1,4 +1,4 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif"></p>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"></p>
 <h1 align="center">Hi I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
