@@ -1,5 +1,5 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://image.freepik.com/free-vector/space-shuttle-rocket-wallpaper-flat-design_74890-35.jpg"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif">, I'm Kunal Sharma</h1>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif"></p>
+<h1 align="center">Hi I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
 
