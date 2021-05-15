@@ -1,4 +1,4 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"></p>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmaths&psig=AOvVaw1eRoEPz26u0inhRUaeYise&ust=1621136582898000&source=images&cd=vfe&ved=2ahUKEwizpMLC4srwAhUXxjgGHeCuBc4QjRx6BAgAEAc"></p>
 <h1 align="center">Hi I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
