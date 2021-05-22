@@ -1,27 +1,22 @@
 <p align="center"><img style ="margin:auto;" align="center" src= "https://media0.giphy.com/media/DHqth0hVQoIzS/giphy.gif?cid=790b7611cc0a5cfc3a338ebfaa1c67eaac8e24be8ab170f8&rid=giphy.gif&ct=g"></p>
-<h1 align="center">Hi I'm Kunal Sharma</h1>
-<h3 align="center">AI Engineer, Mathematician, Programmer</h3>
+<h1 align="center">Hi I'm Rahul Sharma</h1>
+<h3 align="center">Data Scientist, Machine Learning enthusiatic</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal077" alt="kunal077" /></a> </p>
 
-                               🔭 I’m currently working on Brain Computer Interface and Transfer Learning
+                             
 
-                               🌱 I’m currently learning TensorFlow, EJS, Deep Learning Algorithms and EEG Signals
+                               💬 Ask me about Analysis, Algebra, Stats, Python, JS, AI, ML, Polictics
 
-                               💬 Ask me about Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies
-
-                               📫 How to reach me kushkunal077@gmail.com
+                               📫 How to reach me rahulsharma.dtu22@gmail.com
 
                                ⚡ Fun fact Math is not a field, It is a superpower.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kunalsh23552206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kunalsh23552206" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal-sharma-469962166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal-sharma-469962166/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15271953/kunal-sharma?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15271953/kunal-sharma?tab=profile" height="30" width="40" /></a>
-<a href="https://kaggle.com/kunalsharma88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kunalsharma88" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kushkunal077" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kushkunal077" height="30" width="40" /></a>
+<a href="https://twitter.com/beingphotophile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="beingphotophile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/therahulsharrma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="therahulsharrma" height="30" width="40" /></a>
 </p>
 
 <h3 align="center"><strong>Languages and Tools:</strong></h3>
